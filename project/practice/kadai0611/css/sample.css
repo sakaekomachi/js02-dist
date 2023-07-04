@@ -4,6 +4,7 @@ body {
   text-align: left;
   font-size: 32px;
   width: 100%;
+  background-color: #ffffff;
 }
 header {
   background-color: #fff;
@@ -12,6 +13,10 @@ header {
 }
 h1 {
   font-size: 100%;
+  background-color: #ffe0b6;
+}
+input {
+background-color: #f6f0cc;
 }
 main {
   width: 100%;
